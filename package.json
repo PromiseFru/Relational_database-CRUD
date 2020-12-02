@@ -1,0 +1,20 @@
+{
+  "name": "Relational_database-CRUD",
+  "version": "1.0.0",
+  "description": "Relational database CRUD with ORM, NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PromiseFru/Relational_database-CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PromiseFru/Relational_database-CRUD/issues"
+  },
+  "homepage": "https://github.com/PromiseFru/Relational_database-CRUD#readme"
+}
