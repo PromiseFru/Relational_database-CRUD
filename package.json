@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/PromiseFru/Relational_database-CRUD#readme",
   "dependencies": {
+    "@types/sequelize": "^4.28.9",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mysql": "^2.18.1",
